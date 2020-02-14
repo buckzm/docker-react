@@ -2,6 +2,8 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+// Starting of the function
+// Just for control 
 function App() {
   return (
     <div className="App">
